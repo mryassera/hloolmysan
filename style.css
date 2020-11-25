@@ -25,7 +25,7 @@ h1 { font: 700 2.8em/1.2 "Droid Sans", sans-serif; }
 h2 { font: 700 1.5em/1.5 "Droid Sans", sans-serif; margin: 1em 0; }
 
 #banner { 
-  background: url(http://54.37.73.64:8080/images/mysanBackground.jpg) no-repeat fixed 50% 0; background-size: cover; color: #fff; height: 100%; width: 100%; 
+  background: url(mysanBackground.jpg) no-repeat fixed 50% 0; background-size: cover; color: #fff; height: 100%; width: 100%; 
 }
 
 #bannertext { width: 24em; position: fixed; top: 20%; left: 50%; border: .5em solid #fff; margin-left: -12em; padding: 2em 0; }
