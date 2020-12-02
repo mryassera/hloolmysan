@@ -8,6 +8,18 @@
   width:100px
 }
 
+.first-color{
+  color: #40c1ac;
+}
+
+.second-color{
+  color: #5d536c;
+}
+
+.font-size-2{
+  font-size: 2rem;
+}
+
 .w-20{
   width: 20%;
 }
