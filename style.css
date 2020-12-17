@@ -1,6 +1,3 @@
-*{
-  font-family:sans-serif !important;
-}
 #svg1606{
   margin-top: 50px;
 }
@@ -16,8 +13,25 @@
   color: #5d536c;
 }
 
+.bg-second-color{
+  background: #5d536c;
+}
+
+.icon-size {
+	font-size: 3em;
+}
+
+a:hover {
+  color: #5d536c;
+  text-decoration: none;
+}
+
+a.hover:hover {
+  text-decoration: underline;
+}
+
 .font-size-2{
-  font-size: 2rem;
+  font-size: 1.5rem;
 }
 
 .w-20{
